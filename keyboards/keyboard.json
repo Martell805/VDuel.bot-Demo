@@ -1,0 +1,49 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "duel random",
+          "payload": ""
+        },
+        "color": "negative"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "help",
+          "payload": ""
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "top",
+          "payload": ""
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "info",
+          "payload": ""
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "upgrade",
+          "payload": ""
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

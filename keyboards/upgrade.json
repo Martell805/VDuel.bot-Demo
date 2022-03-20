@@ -1,0 +1,62 @@
+{
+  "one_time": false,
+  "inline": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "upgrade_def 1",
+          "payload": ""
+        },
+        "color": "primary"
+      }
+    ],
+    [
+            {
+        "action": {
+          "type": "text",
+          "label": "upgrade_def 5",
+          "payload": ""
+        },
+        "color": "primary"
+      },
+            {
+        "action": {
+          "type": "text",
+          "label": "upgrade_def 10",
+          "payload": ""
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "upgrade_atk 1",
+          "payload": ""
+        },
+        "color": "negative"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "upgrade_atk 5",
+          "payload": ""
+        },
+        "color": "negative"
+      },
+            {
+        "action": {
+          "type": "text",
+          "label": "upgrade_atk 10",
+          "payload": ""
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
